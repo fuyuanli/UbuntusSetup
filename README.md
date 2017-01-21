@@ -9,7 +9,7 @@
 - [VIM](terminals/vim/.vimrc)
 
 ## Theme 
-- [Numix](theme/numix)
+- [Numix](themes/numix)
 
 ## 小工具
 - [indicator-netspeed-unity](https://github.com/GGleb/indicator-netspeed-unity)
