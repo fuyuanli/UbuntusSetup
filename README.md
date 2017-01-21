@@ -5,8 +5,8 @@
 - [Nvidia 驅動](driver/nvidia)
 
 ## Terminal 工具
-- [Powerline](https://powerline.readthedocs.io/en/latest/installation.html) 
-- [VIM](vim/.vimrc)
+- [PowerLine](terminals/powerline) 
+- [VIM](terminals/vim/.vimrc)
 
 ## Theme 
 - Numix
