@@ -3,6 +3,7 @@
 
 ## Driver
 - [Nvidia 驅動](driver/nvidia)
+- open-vm-tools
 
 ## Terminal 工具
 - [PowerLine](terminals/powerline) 
